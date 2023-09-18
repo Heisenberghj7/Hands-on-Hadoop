@@ -1,1 +1,1 @@
-# Hands-on-Hadoop
+# `Hands on Hadoop`
