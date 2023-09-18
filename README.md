@@ -1,3 +1,4 @@
-# `Hands on Hadoop:` 🐘
+# `Hands on Hadoop: HDFS & MapReduce` 🐘
 
 <img src="hadoop.svg.png"/>
+
